@@ -1,0 +1,11 @@
+# Light, made by Gregor Schram, aka Gregor160300
+maximized_offset=4
+button_offset=4
+button_spacing=4
+title_full_width=true
+title_shadow_active=false
+title_shadow_inactive=false
+show_app_icon=false
+button_layout=CMH|
+active_text_color=#4a494e
+inactive_text_color=#b1b1b1
