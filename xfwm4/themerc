@@ -1,4 +1,6 @@
-# Light, made by Gregor Schram, aka Gregor160300
+# Fletish, made by Gregor Schram, aka Gregor160300
+# I recommend left title alignment
+title_horizontal_offset=4
 maximized_offset=4
 button_offset=4
 button_spacing=4
